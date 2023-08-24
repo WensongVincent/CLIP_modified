@@ -18,5 +18,5 @@ $ pip install scikit-image
 ### User given text, retrive image from CIFAR100 dataset
 ![image](https://github.com/WensongVincent/CLIP_modified/assets/124071302/700d98f6-a738-45c4-bd80-e592bdc52fad)
 
-### User given text, retrie image from SKIMAGE
+### User given text, retrie image from sci-kit images
 ![image](https://github.com/WensongVincent/CLIP_modified/assets/124071302/3435d226-b4c8-48a2-99cd-07cb1e8d57c2)
