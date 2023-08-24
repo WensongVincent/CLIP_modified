@@ -5,12 +5,12 @@
 To use the text-image retrieval, run file: Zero-shot text-image retrieval using CLIP.ipynb
 
 ## Environment setup
-'''sh
+```sh
 $ conda install pytorch pytorch=1.7.1 torchvision cudatoolkit=11.1
 $ pip install ftfy regex tqdm
 $ pip install git+https://github.com/openai/CLIP.git
 $ conda install matplotlib
 $ pip install numpy
-'''
+```
 
 
