@@ -13,4 +13,6 @@ $ conda install matplotlib
 $ pip install numpy
 ```
 
+## Example result
+![image](https://github.com/WensongVincent/CLIP_modified/assets/124071302/700d98f6-a738-45c4-bd80-e592bdc52fad)
 
